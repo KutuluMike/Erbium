@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Erbium</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="setup_header">New Game Settings</string>
+    <string name="setup_players"># Players:</string>
+    <string name="setup_starting_life">Initial Life:</string>
+    <string name="setup_is_commander">Track Commander Damage?</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
